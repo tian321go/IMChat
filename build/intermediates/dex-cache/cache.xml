@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\studioSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\Desktop\happyTiger\IPMsgChat\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_840815ecea87335b81c4e3d52eb246673fbae5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\happyTiger\IPMsgChat\app\libs\fastjson-1.1.34.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bef1d1224be099c387794bce1bdf81b38f37c6ce">
+        <dex dex="C:\Users\Administrator\Desktop\happyTiger\IPMsgChat\app\build\intermediates\pre-dexed\debug\fastjson-1.1.34.android_d50fd5c584f4ecf1223a77c64575f3affef8ee71.jar" />
+    </item>
+
+</items>

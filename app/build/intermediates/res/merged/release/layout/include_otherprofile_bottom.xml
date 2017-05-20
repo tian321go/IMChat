@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_unlogin_bar"
+    android:layout_alignParentBottom="true"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="4dip" >
+
+    <LinearLayout
+        android:id="@+id/otherprofile_bottom_layout_chat"
+        android:layout_width="fill_parent"
+        android:layout_height="42dip"
+        android:layout_weight="1"
+        android:background="@drawable/btn_bottombar"
+        android:clickable="true"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        android:layout_marginLeft="2dip">
+
+        <szu.wifichat.android.view.HandyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="与 ta 聊天"
+            android:textColor="@color/profile_bottom_text_color"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

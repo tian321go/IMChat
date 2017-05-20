@@ -1,0 +1,150 @@
+# view AndroidManifest.xml #generated:36
+-keep class cn.ipmsgchat.android.BaseApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class cn.ipmsgchat.android.activity.ChooseAvatarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class cn.ipmsgchat.android.activity.ImageBrowserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class cn.ipmsgchat.android.activity.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class cn.ipmsgchat.android.activity.OtherProfileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class cn.ipmsgchat.android.activity.SettingMyInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class cn.ipmsgchat.android.activity.imagefactory.ImageFactoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class cn.ipmsgchat.android.activity.maintabs.MainTabActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class cn.ipmsgchat.android.activity.maintabs.NearByActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class cn.ipmsgchat.android.activity.maintabs.SessionListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class cn.ipmsgchat.android.activity.maintabs.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class cn.ipmsgchat.android.activity.maintabs.TabItemActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class cn.ipmsgchat.android.activity.message.ChatActivity { <init>(...); }
+
+# view res/layout/activity_chat.xml #generated:20
+-keep class szu.wifichat.android.view.ChatListView { <init>(...); }
+
+# view res/layout/include_imagefactory_crop.xml #generated:6
+-keep class szu.wifichat.android.view.CropImageView { <init>(...); }
+
+# view res/layout/activity_chat.xml #generated:72
+-keep class szu.wifichat.android.view.EmoteInputView { <init>(...); }
+
+# view res/layout/include_message_textditor.xml #generated:46
+-keep class szu.wifichat.android.view.EmoticonsEditText { <init>(...); }
+
+# view res/layout/message_text.xml #generated:2
+-keep class szu.wifichat.android.view.EmoticonsTextView { <init>(...); }
+
+# view res/layout/common_flipping_loading_diloag.xml #generated:9
+-keep class szu.wifichat.android.view.FlippingImageView { <init>(...); }
+
+# view res/layout/activity_login.xml #generated:106
+# view res/layout/activity_login.xml #generated:119
+# view res/layout/activity_login.xml #generated:84
+# view res/layout/activity_myprofile.xml #generated:105
+# view res/layout/activity_myprofile.xml #generated:70
+# view res/layout/activity_myprofile.xml #generated:92
+# view res/layout/common_bottombar_tab_chat.xml #generated:23
+# view res/layout/common_bottombar_tab_chat.xml #generated:9
+# view res/layout/common_bottombar_tab_nearby.xml #generated:9
+# view res/layout/common_bottombar_tab_profile.xml #generated:9
+# view res/layout/common_dialog_generic.xml #generated:35
+# view res/layout/common_dialog_generic.xml #generated:80
+# view res/layout/common_flipping_loading_diloag.xml #generated:15
+# view res/layout/common_headerbar.xml #generated:48
+# view res/layout/common_headerbar_spinner.xml #generated:11
+# view res/layout/common_toast.xml #generated:8
+# view res/layout/include_dialog_nearby_filter.xml #generated:29
+# view res/layout/include_dialog_nearby_filter.xml #generated:84
+# view res/layout/include_header_righttext.xml #generated:6
+# view res/layout/include_nearby_group_header.xml #generated:21
+# view res/layout/include_nearby_group_header.xml #generated:31
+# view res/layout/include_otherprofile_accountinfo.xml #generated:14
+# view res/layout/include_otherprofile_accountinfo.xml #generated:46
+# view res/layout/include_otherprofile_accountinfo.xml #generated:56
+# view res/layout/include_otherprofile_accountinfo.xml #generated:85
+# view res/layout/include_otherprofile_accountinfo.xml #generated:95
+# view res/layout/include_otherprofile_bottom.xml #generated:22
+# view res/layout/include_otherprofile_feed.xml #generated:31
+# view res/layout/include_otherprofile_feed.xml #generated:39
+# view res/layout/include_otherprofile_feed.xml #generated:72
+# view res/layout/include_pull_to_refresh.xml #generated:29
+# view res/layout/include_pull_to_refresh.xml #generated:36
+# view res/layout/include_pull_to_refreshing_header.xml #generated:43
+# view res/layout/include_pull_to_refreshing_header.xml #generated:50
+# view res/layout/include_welcome_item.xml #generated:15
+# view res/layout/listitem_dialog.xml #generated:9
+# view res/layout/listitem_filter_item.xml #generated:26
+# view res/layout/listitem_user.xml #generated:114
+# view res/layout/listitem_user.xml #generated:123
+# view res/layout/listitem_user.xml #generated:133
+# view res/layout/listitem_user.xml #generated:75
+# view res/layout/message_file.xml #generated:24
+# view res/layout/message_group_send_template.xml #generated:38
+# view res/layout/message_image.xml #generated:16
+# view res/layout/message_timestamp.xml #generated:22
+-keep class szu.wifichat.android.view.HandyTextView { <init>(...); }
+
+# view res/layout/include_header.xml #generated:2
+-keep class szu.wifichat.android.view.HeaderLayout { <init>(...); }
+
+# view res/layout/common_headerbar.xml #generated:61
+-keep class szu.wifichat.android.view.HeaderSpinner { <init>(...); }
+
+# view res/layout/fragment_nearbypeople.xml #generated:7
+-keep class szu.wifichat.android.view.MoMoRefreshListView { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:143
+-keep class szu.wifichat.android.view.MyTabHost { <init>(...); }
+
+# view res/layout/activity_login.xml #generated:18
+# view res/layout/activity_otherprofile.xml #generated:12
+-keep class szu.wifichat.android.view.PagerScrollView { <init>(...); }
+
+# view res/layout/activity_imagebrowser.xml #generated:33
+-keep class szu.wifichat.android.view.PhotoTextView { <init>(...); }
+
+# view res/layout/include_imagefactory_fliter.xml #generated:7
+-keep class szu.wifichat.android.view.RotateImageView { <init>(...); }
+
+# view res/layout/common_headerbar_spinner.xml #generated:24
+# view res/layout/include_pull_to_refresh.xml #generated:15
+-keep class szu.wifichat.android.view.RotatingImageView { <init>(...); }
+
+# view res/layout/activity_chat.xml #generated:43
+-keep class szu.wifichat.android.view.ScrollLayout { <init>(...); }
+
+# view res/layout/activity_imagebrowser.xml #generated:13
+# view res/layout/common_userphoto.xml #generated:11
+-keep class szu.wifichat.android.view.ScrollViewPager { <init>(...); }
+
+# view res/layout/common_headerbar.xml #generated:36
+-keep class szu.wifichat.android.view.ScrollingTextView { <init>(...); }
+
+# view res/layout/activity_settting_page.xml #generated:145
+# view res/layout/activity_settting_page.xml #generated:92
+-keep class szu.wifichat.android.view.SettingSwitchButton { <init>(...); }
+
+# view res/layout/common_headerbar.xml #generated:155
+-keep class szu.wifichat.android.view.SwitcherButton { <init>(...); }
+
+# onClick res/layout/row_file_layout.xml #generated:31
+-keepclassmembers class * { *** onCheck(...); }
+

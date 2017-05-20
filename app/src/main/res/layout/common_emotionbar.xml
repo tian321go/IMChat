@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="224dip"
+	android:orientation="vertical" >
+
+	<View
+		android:layout_width="fill_parent"
+		android:layout_height="1px"
+		android:background="@color/msg_emote_divider"
+		android:focusable="false" />
+
+	<GridView
+		android:id="@+id/emotionbar_gv_display"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:cacheColorHint="@color/transparent"
+		android:columnWidth="40dip"
+		android:fadingEdge="none"
+		android:gravity="center_horizontal"
+		android:horizontalSpacing="7dip"
+		android:listSelector="@drawable/btn_emote_selector"
+		android:numColumns="auto_fit"
+		android:paddingLeft="7dip"
+		android:paddingRight="7dip"
+		android:paddingTop="3dip"
+		android:scrollbarStyle="outsideOverlay"
+		android:scrollingCache="false"
+		android:stretchMode="columnWidth"
+		android:verticalSpacing="7dip" />
+
+</LinearLayout>

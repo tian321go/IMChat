@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="16dip"
+    android:paddingRight="16dip" >
+
+    <RelativeLayout
+        android:id="@+id/otherprofile_layout_sex_sign"
+        android:layout_width="fill_parent"
+        android:layout_height="36dip" >
+
+        <LinearLayout
+            android:id="@+id/otherprofile_layout_gender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingLeft="6dip"
+            android:paddingRight="6dip" >
+
+            <ImageView
+                android:id="@+id/otherprofile_iv_gender"
+                android:layout_width="8dip"
+                android:layout_height="8dip"
+                android:layout_marginRight="2dip"
+                android:scaleType="fitXY" />
+
+            <szu.wifichat.android.view.HandyTextView
+                android:id="@+id/otherprofile_htv_age"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <szu.wifichat.android.view.HandyTextView
+            android:id="@+id/otherprofile_htv_constellation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6dip"
+            android:layout_toRightOf="@+id/otherprofile_layout_gender"
+            android:textColor="@color/font_value"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginRight="4dip"
+                    android:layout_marginTop="1dip"
+                    android:src="@drawable/ic_user_loctime" />
+
+                <szu.wifichat.android.view.HandyTextView
+                    android:id="@+id/otherprofile_htv_time"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/font_value"
+                    android:textSize="13sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>    
+
+</LinearLayout>

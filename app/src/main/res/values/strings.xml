@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">IPMSGChat</string>
+	<string name="btn_return">返    回</string>
+	<string name="btn_next">下一步</string>
+	<string name="dialog_tips">提 示</string>
+	<string name="btn_finish">保    存</string>
+	<string name="dialog_loading">正在加载,请稍后...</string>
+	<string name="dialog_loading_failue">数据加载失败...</string>
+	
+	<string name="welcome_btn_login">登 陆</string>
+	
+	<string name="login_hint_nickname">输入您的昵称</string>
+	<string name="login_text_selectsex">选择性别</string>
+	<string name="login_text_male">男</string>
+	<string name="login_text_female">女</string>
+	<string name="login_text_lastlogin">上次登录: </string>
+	<string name="login_text_changeuser">更  换  账  户</string>
+	<string name="login_dialog_saveInfo">正在存储个人信息...</string>
+	<string name="login_toast_loginfailue">操作失败,请尝试重启程序。</string>
+	<string name="login_toast_nickname">请输入您的聊天昵称</string>
+	<string name="login_toast_sex">请选择性别</string>
+
+	<string name="chat_btn_send">发 送</string>	
+	<string name="chat_dialog_record_cancel_move">向上滑动可取消录音</string>
+	<string name="chat_dialog_record_cancel_up">松开手指可取消录音</string>
+	<string name="chat_toast_record_shorttime">时间太短  录音失败</string>	
+	
+	<string name="setting_text_myprofile">我的资料</string>
+	<string name="setting_text_sysconfig">系统设置</string>
+	<string name="setting_text_sysconfig_sound">声音提醒</string>
+	<string name="setting_text_sysconfig_vibra">震动提醒</string>
+	<string name="setting_btn_cleandb">删除聊天记录</string>
+	<string name="setting_btn_closeapp">退 出</string>
+	<string name="setting_dialog_chatlog_delete_confirm">删除聊天记录会删除接收的所有图片、语音、文件</string>
+	<string name="setting_dialog_chatlog_delete_ok">确 定</string>
+	<string name="setting_dialog_chatlog_delete_cancel">取 消</string>	
+	<string name="setting_dialog_chatlog_deleting">正在删除聊天记录...</string>
+	<string name="setting_dialog_toast_delect_success">删除聊天记录成功</string>
+	<string name="setting_dialog_toast_delect_failue">操作失败,请尝试重启程序。</string>
+
+	<string name="setting_dialog_logout_confirm">确定要退出软件?</string>
+	<string name="setting_dialog_logout_ok">确 定</string>
+	<string name="setting_dialog_logout_cancel">取 消</string>	
+
+	
+	<string name="maintab_text_message">消息</string>
+	<string name="maintab_text_nearby">附近</string>
+	<string name="maintab_text_setting">设置</string>
+		
+	<string name="tabitem_toast_logout">再按一次退出程序</string>
+	
+	<string name="toast_sdcard_unavailable">SD卡不可用,请检查</string>
+	<string name="toast_file_manager_unavailable">缺少文件管理器</string>
+	<string name="text_file_send_select">请选择一个要发送的文件</string>
+		
+	<string name="current_path_label">当前路径: </string>
+	<string name="select_path_for_save">选择接收文件的文件夹</string>
+	<string name="no_file">No files</string>
+	<string name="accept">接收</string>
+	<string name="close">关闭</string>
+
+</resources>

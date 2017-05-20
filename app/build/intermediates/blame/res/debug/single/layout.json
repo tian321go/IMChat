@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagebrowser.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_imagebrowser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearbypeople.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\fragment_nearbypeople.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_feed.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_otherprofile_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_recieve_file_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\send_recieve_file_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_voice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_receive_template.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_group_receive_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settting_page.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_settting_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_simplelist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_dialog_simplelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\listitem_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_group_send_template.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_group_send_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otherprofile.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_otherprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_bottombar_tab_nearby.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_bottombar_tab_nearby.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header_rightimagebutton.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_header_rightimagebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearby.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_nearby.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog_generic.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_dialog_generic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setavater.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_setavater.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picture_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\picture_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\record_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_fullscreen_mask.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_fullscreen_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_flipping_loading_diloag.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_flipping_loading_diloag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_textditor.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_message_textditor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_userphoto.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_userphoto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_emote.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\listitem_emote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagefactory.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_imagefactory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_accountinfo.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_otherprofile_accountinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_file_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\row_file_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_image.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_nearby_filter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_dialog_nearby_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_crop.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_imagefactory_crop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\request_file_popupwindow_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\request_file_popupwindow_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_dialog_edittext.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_dialog_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_exploer_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\file_exploer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_file.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_headerbar_spinner.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_headerbar_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sessionlist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_sessionlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_imagefactory_fliter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_imagefactory_fliter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_switcher.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_switcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_loading_indicator.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_loading_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_headerbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_headerbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_otherprofile_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_otherprofile_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_audioditor.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_message_audioditor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_wifiap_search_device_anima.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_wifiap_search_device_anima.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pull_to_refresh.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_pull_to_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maintabs.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_maintabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_nearby_group_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_nearby_group_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_bottombar_tab_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_bottombar_tab_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myprofile.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_filter_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\listitem_filter_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_emotionbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_emotionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_toast.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_header_righttext.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_header_righttext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_plus.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_user.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\listitem_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_welcome_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_welcome_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_bottombar_tab_profile.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\common_bottombar_tab_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_message_shortline.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_message_shortline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pull_to_refreshing_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\include_pull_to_refreshing_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_timestamp.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\layout\\message_timestamp.xml"
+    }
+]

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:gravity="left"
+	android:minHeight="40dip"
+	android:orientation="vertical"
+	android:paddingBottom="4dip"
+	android:paddingTop="4dip" >
+
+	<include layout="@layout/message_timestamp" />
+
+	<LinearLayout
+		android:id="@+id/left_message_layout_contentcontainer"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:baselineAligned="false" >
+
+		<ImageView
+			android:id="@+id/left_message_iv_userphoto"
+			android:layout_width="40dip"
+			android:layout_height="40dip"
+			android:layout_marginRight="4dip"
+			android:scaleType="fitXY" />
+
+		<RelativeLayout
+			android:id="@+id/left_message_layout_leftcontainer"
+			android:layout_width="0dip"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:gravity="left" >
+
+			<LinearLayout
+				android:id="@+id/left_message_layout_messagecontainer"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:background="@drawable/bg_message_box_receive"
+				android:gravity="center"
+				android:orientation="horizontal" />
+
+			<View
+				android:id="@+id/left_margin_view"
+				android:layout_width="52dip"
+				android:layout_height="1dip"
+				android:layout_toRightOf="@id/left_message_layout_messagecontainer" />
+		</RelativeLayout>
+	</LinearLayout>
+
+</LinearLayout>

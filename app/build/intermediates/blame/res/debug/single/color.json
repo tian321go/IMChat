@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\btn_text_color.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\color\\btn_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\profile_bottom_text_color.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\color\\profile_bottom_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\switcher_textcolor.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\color\\switcher_textcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\maintab_text_color.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\happyTiger\\IPMsgChat\\app\\src\\main\\res\\color\\maintab_text_color.xml"
+    }
+]
